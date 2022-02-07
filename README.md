@@ -1,13 +1,10 @@
- # Read Me Template
+ # Pizza-Blog-Website
 
-![Project Image](project-image-url)
-
-> This is a ReadMe template to help save you time and effort.
+![Project Image](C:\Users\domin\Desktop\Workplace\Projects\Pizza-Blog-Website\images)
 
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -19,12 +16,17 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+This is a website I made in one of my classes in school that discusses the best 
+pizza places in Toronto. The home page displays the top six pizza places in the six (Toronto) and 
+the user is able to clock any of the six images to read more about it. The home page has 
+interactive components that generate feedback to the user. Each image takes the user to one of 
+six articles where the pizza place is discussed in detail such as their history, location, menu, adresss, etc.
+The user is able to navigate back to the home page and read more articles posted.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- HTML
+- CSS
 
 [Back To The Top](#read-me-template)
 
