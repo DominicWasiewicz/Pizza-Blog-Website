@@ -1,6 +1,6 @@
  # Pizza-Blog-Website
 
-![Project Image](C:\Users\domin\Desktop\Workplace\Projects\Pizza-Blog-Website\images)
+![Project Image](README picture)
 
 ---
 
