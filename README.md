@@ -1,6 +1,6 @@
  # Pizza-Blog-Website
 
-![Project Image](README picture)
+![Project Image](<img src="images/README picture.PNG">)
 
 ---
 
