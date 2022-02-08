@@ -1,6 +1,8 @@
- # Pizza-Blog-Website
+ # Pizza-Blog-Website 
+ 
 
-![Project Image](images/README_pictures/home_page.jpg)
+
+![Project Image](images/README_pictures/home_page.jpg) 
 
 ---
 
@@ -23,9 +25,8 @@ The user is able to navigate back to the home page and read more articles posted
 #### Technologies
 
 - HTML
-- CSS
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#description)
 
 ---
 
@@ -53,7 +54,7 @@ into detail about the pizza joint the user has selected.
 
 5. To navigate back to the home page, click on the "Home" button on the top left of the page.
 
-[Back To The Top](#read-me-template)
+[Back To The Top](#description)
 
 ---
 
