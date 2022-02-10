@@ -26,7 +26,7 @@ The user is able to navigate back to the home page and read more articles posted
 
 - HTML
 
-[Back To The Top](#description)
+[Back To The Top](#pizza-blog-website)
 
 ---
 
@@ -54,7 +54,7 @@ into detail about the pizza joint the user has selected.
 
 5. To navigate back to the home page, click on the "Home" button on the top left of the page.
 
-[Back To The Top](#description)
+[Back To The Top](#pizza-blog-website)
 
 ---
 
